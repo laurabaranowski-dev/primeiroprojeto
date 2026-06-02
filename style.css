@@ -1,0 +1,17 @@
+body{
+    background-color: darkcyan;
+}
+h1{
+    color: bisque;
+    font-size: 60px;
+    text-align: center;
+}
+p{
+    color: bisque;
+    font-size: 48px;
+    text-align: center;
+}
+img{
+    width: 35%;
+    margin-left: 600px;
+}
