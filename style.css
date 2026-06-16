@@ -1,6 +1,10 @@
 body{
     background-color: darkcyan;
 }
+header{
+    display: flex;
+    
+}
 h1{
     color: bisque;
     font-size: 60px;
